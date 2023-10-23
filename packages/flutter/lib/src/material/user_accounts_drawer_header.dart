@@ -302,8 +302,8 @@ class UserAccountsDrawerHeader extends StatefulWidget {
     this.otherAccountsPictures,
     this.currentAccountPictureSize = const Size.square(72.0),
     this.otherAccountsPicturesSize = const Size.square(40.0),
-    required this.accountName,
-    required this.accountEmail,
+     this.accountName,
+     this.accountEmail,
     this.onDetailsPressed,
     this.arrowColor = Colors.white,
   });
